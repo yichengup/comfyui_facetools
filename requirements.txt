@@ -1,5 +1,5 @@
 opencv-python>=4.7.0.72
 mediapipe
 ultralytics
-skimage
+scikit-image
 scipy
